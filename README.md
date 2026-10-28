@@ -1,0 +1,2 @@
+# smd-midia
+Logar
